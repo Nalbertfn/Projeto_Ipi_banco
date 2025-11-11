@@ -1,4 +1,4 @@
-# projeto_lpi_banco
+# projeto_lpi_banco - Nalbertfn
 Projeto para as disciplinas de Linguagem de programação I e Banco de Dados
 
 
